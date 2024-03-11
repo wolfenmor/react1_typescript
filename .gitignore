@@ -24,3 +24,4 @@ yarn-error.log*
 .idea
 react1_typescript.iml
 package-lock.json
+.idea/workspace.xml

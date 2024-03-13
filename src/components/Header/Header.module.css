@@ -1,0 +1,16 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    color: snow;
+    background-color: black;
+}
+.Header a{
+    text-decoration: none;
+    font-size: 25px;
+    margin: 0 5px;
+}
+.tools{
+    display: flex;
+}
